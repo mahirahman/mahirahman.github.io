@@ -1,0 +1,38 @@
+[Nav]
+
+Mahi Rahman				About Me	  Technologies	  Projects 	  github linkedin email
+
+[Main]
+
+[#AboutMe] [section]
+
+Hi There!
+I'm Mahi, a 3rd year Computer Science student at UNSW pursuing a career in software engineering. I'm interested in all aspects
+of software engineering and I’m always keen on learning new technologies to write secure, and scalable solutions.
+Looking for a role where I can grow and learn from experienced team members while drawing on project, analytical
+and leadership experience I have already successfully achieved.
+
+[#Technologies] [section]
+
+I primarily develop software in:
+Languages: Python, JavaScript, Java, C, HTML/CSS
+Tools/Frameworks: ReactJS, Node.JS, Flask, Git/Github
+Design: Bootstrap, Material UI, Styled Components
+Storage: Postgres, MongoDB
+
+Github Stats
+
+[#Projects] [section]
+
+MCAD
+BIGBRAIN
+SNAKE
+EARTH INVADERS
+OXUMS
+SOCIAL NETWORK API
+
+[Footer]
+		
+Contact Me
+I am always open to new opportunities. Feel free to get in touch with me at mahi.rahman@student.unsw.edu.au
+Copyright © 2022 Mahi Rahman. All rights reserved.
