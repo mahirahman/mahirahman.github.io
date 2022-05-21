@@ -1,0 +1,38 @@
+.container {
+  width: 80%;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 1040px;
+  box-sizing: content-box;
+  position: relative;
+  overflow: hidden;
+  grid-template-columns: 1fr 1fr;
+}
+
+.main_text {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.text {
+  max-width: 800px;
+  font-size: 24px;
+  line-height: 40px;
+  font-weight: 300;
+  padding-bottom: 3.6rem;
+  color: rgb(255 255 255 / 83%);
+}
+
+.bg_animation {
+  position: absolute;
+  width: 450px;
+  padding-left: 500px;
+}
+
+.flex_container {
+  display: flex;
+  justify-content: center;
+}

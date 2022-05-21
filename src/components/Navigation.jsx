@@ -8,7 +8,6 @@ import useWindowDimensions from './useWindowDimensions'
 function Navigation() {
   return (
     <nav>
-      <h1>{}</h1>
       <div className={style.navigation_bar}>
         {useWindowDimensions().width > 700 &&
           <div className={style.logo}>
