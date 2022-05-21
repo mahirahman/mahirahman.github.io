@@ -1,13 +1,13 @@
 import React from 'react'
+import projects from '../projects.json'
 
 function Projects() {
   return (
-    <div>MCAD
-    BIGBRAIN
-    SNAKE
-    EARTH INVADERS
-    OXUMS
-    SOCIAL NETWORK API</div>
+    <section>
+      {projects.map(project => (
+        <h1>{project.title}</h1>
+      ))}
+    </section>
   )
 }
 

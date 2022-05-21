@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Movie Content Advisory Directory",
+    "thumbnail": "https://raw.githubusercontent.com/mahirahman/Movie-Content-Advisory-Directory/main/public/img/movies-page.png",
+    "description": "Modern and mobile friendly web application that allows users to search for content advisories for movies and TV shows 🍿",
+    "stack": [
+      "Python",
+      "Flask",
+      "Bootstrap"
+    ],
+    "url": "https://movie-content-advisory.herokuapp.com",
+    "repository": "https://github.com/mahirahman/Movie-Content-Advisory-Directory"
+  },
+  {
+    "title": "BigBrain",
+    "thumbnail": "https://raw.githubusercontent.com/mahirahman/BigBrain/master/screenshots/in_question.png",
+    "description": "An innovative lightweight quiz platform for all ages 🧠",
+    "stack": [
+      "React",
+      "Bootstrap",
+      "Howler",
+      "ChartJS"
+    ],
+    "url": "https://big-brain.vercel.app",
+    "repository": "https://github.com/mahirahman/BigBrain"
+  },
+  {
+    "title": "Oxums",
+    "thumbnail": "https://raw.githubusercontent.com/mahirahman/OxumsBot/main/icons/logo.png",
+    "description": "Open Source Rust (Video Game) Utility Bot for Discord",
+    "stack": [
+      "NodeJS"
+    ],
+    "url": "https://top.gg/bot/XXX",
+    "repository": "https://github.com/mahirahman/OxumsBot"
+  },
+  {
+    "title": "Earth Invaders",
+    "thumbnail": "https://raw.githubusercontent.com/mahirahman/Earth-Invaders/master/assets/images/git_banner.png",
+    "description": "Side Scrolling Shooter Game ✨",
+    "stack": [
+      "Python",
+      "Pygame"
+    ],
+    "url": "#",
+    "repository": "https://github.com/mahirahman/Earth-Invaders"
+  },
+  {
+    "title": "Social Network API",
+    "thumbnail": "",
+    "description": "Zoom/Microsoft Teams Rest API clone",
+    "stack": [
+      "Python",
+      "Flask"
+    ],
+    "url": "#",
+    "repository": "https://github.com/mahirahman/SocialNetworkAPI"
+  },
+  {
+    "title": "Low Level Snake",
+    "thumbnail": "",
+    "description": "Implementation of the classic video game Snake in low level MIPS Assembly Language 🕹️",
+    "stack": [
+      "Assembly (MIPS)"
+    ],
+    "url": "#",
+    "repository": "https://github.com/mahirahman/Snake"
+  }
+]
