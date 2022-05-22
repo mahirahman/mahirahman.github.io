@@ -9,6 +9,12 @@
 .project_img_size {
   height: 170px;
   width: 345px !important;
+  user-drag: none;
+  -webkit-user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
 }
 
 /* Override MUI styles */
@@ -21,4 +27,21 @@
   color: #bcc2cb ;
   margin: 10px 0;
   font-weight: 300;
+}
+
+.btn_container {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 15px;
+}
+
+.tags_container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+/* Override MUI styles */
+.tags {
+  background-color: #313e4b !important;
+  color: #bcc2cb !important;
 }
