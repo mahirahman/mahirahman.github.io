@@ -7,7 +7,7 @@ import useWindowDimensions from './useWindowDimensions'
 function About() {
   return (
     <section>
-      <div className={style.flex_container}>
+      <div className={style.flex_container} id='about'>
         <div className={global.container}>
         <h1 className={global.main_text}>Hi there, 👋</h1>
           <div className={style.text}>

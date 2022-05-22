@@ -11,7 +11,7 @@ import projects from '../data/projects.json'
 function Projects() {
   return (
     <section>
-      <div className={global.container}>
+      <div className={global.container} id='projects'>
         <h2 className={global.secondary_text}>Projects</h2>
         <div className={style.project_container}>
           {projects.map((project, index) => (
@@ -19,12 +19,12 @@ function Projects() {
             <CardActionArea>
               <CardMedia
                 className={style.project_img_size}
-                component="img"
+                component='img'
                 image={project.thumbnail}
                 alt={project.title}
               />
               <CardContent>
-                <Typography gutterBottom variant="h5" component="div">
+                <Typography gutterBottom variant='h5' component='div'>
                   {project.title}
                 </Typography>
                 <Typography className={style.card_description}>

@@ -6,7 +6,7 @@ import tech_stack from '../data/tech_stack.json'
 function Technologies() {
   return (
     <section>
-      <div className={global.container}>
+      <div className={global.container} id='tech'>
         <h2 className={global.secondary_text}>I've worked with a range of technologies, ranging from frontend to backend and databases.</h2>
         <div className={style.box_container}>
           {tech_stack.map((stack, index) => (
