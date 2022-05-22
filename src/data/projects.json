@@ -2,7 +2,7 @@
   {
     "title": "Movie Content Advisory Directory",
     "thumbnail": "https://raw.githubusercontent.com/mahirahman/Movie-Content-Advisory-Directory/main/public/img/movies-page.png",
-    "description": "Modern and mobile friendly web application that allows users to search for content advisories for movies and TV shows 🍿",
+    "description": "Modern and mobile friendly web application that allows users to search for content advisories for movies and TV shows.",
     "stack": [
       "Python",
       "Flask",
@@ -14,7 +14,7 @@
   {
     "title": "BigBrain",
     "thumbnail": "https://raw.githubusercontent.com/mahirahman/BigBrain/master/screenshots/in_question.png",
-    "description": "An innovative lightweight quiz platform for all ages 🧠",
+    "description": "An innovative lightweight quiz platform for all ages.",
     "stack": [
       "React",
       "Bootstrap",
@@ -26,8 +26,8 @@
   },
   {
     "title": "Oxums",
-    "thumbnail": "https://raw.githubusercontent.com/mahirahman/OxumsBot/main/icons/logo.png",
-    "description": "Open Source Rust (Video Game) Utility Bot for Discord",
+    "thumbnail": "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/908828/how-to-make-a-discord-bot-7c0fe302b98b05b145682344b3a4ec59.png",
+    "description": "Open Source Rust (Video Game) Utility Bot for Discord.",
     "stack": [
       "NodeJS",
       "MongoDB"
@@ -37,8 +37,8 @@
   },
   {
     "title": "Earth Invaders",
-    "thumbnail": "https://raw.githubusercontent.com/mahirahman/Earth-Invaders/master/assets/images/git_banner.png",
-    "description": "Side Scrolling Shooter Game ✨",
+    "thumbnail": "https://raw.githubusercontent.com/mahirahman/Earth-Invaders/master/assets/images/thumbnail.png",
+    "description": "Side Scrolling Shooter Game.",
     "stack": [
       "Python",
       "Pygame"
@@ -48,8 +48,8 @@
   },
   {
     "title": "Social Network API",
-    "thumbnail": "",
-    "description": "Zoom/Microsoft Teams Rest API clone",
+    "thumbnail": "https://raw.githubusercontent.com/mahirahman/SocialNetworkAPI/master/src/thumbnail.PNG",
+    "description": "Zoom/Microsoft Teams Rest API clone.",
     "stack": [
       "Python",
       "Flask"
@@ -59,8 +59,8 @@
   },
   {
     "title": "Low Level Snake",
-    "thumbnail": "",
-    "description": "Implementation of the classic video game Snake in low level MIPS Assembly Language 🕹️",
+    "thumbnail": "https://raw.githubusercontent.com/mahirahman/Snake/main/thumbnail.PNG",
+    "description": "Implementation of the classic video game Snake in low level MIPS Assembly Language.",
     "stack": [
       "Assembly (MIPS)"
     ],

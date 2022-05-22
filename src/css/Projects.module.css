@@ -1,0 +1,24 @@
+.project_container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 25px;
+}
+
+/* Override MUI styles */
+.project_img_size {
+  height: 170px;
+  width: 345px !important;
+}
+
+/* Override MUI styles */
+.card_color {
+  background-color: #1b2438  !important;
+  color: #fff  !important;
+}
+
+.card_description {
+  color: #bcc2cb ;
+  margin: 10px 0;
+  font-weight: 300;
+}
