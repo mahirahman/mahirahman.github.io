@@ -29,7 +29,7 @@
 .bg_animation {
   position: absolute;
   width: 450px;
-  padding-left: 500px;
+  margin-left: 500px;
 }
 
 .flex_container {
