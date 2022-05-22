@@ -1,0 +1,30 @@
+.container {
+  width: 80%;
+  padding: 2rem;
+  padding-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 1040px;
+  box-sizing: content-box;
+  position: relative;
+  overflow: hidden;
+  grid-template-columns: 1fr 1fr;
+}
+
+.main_text {
+  font-size: 3rem;
+}
+
+.secondary_text {
+  font-size: 2rem;
+}
+
+.sub_text {
+  font-size: 1.5rem;
+}
+
+.main_text, .secondary_text, .sub_text {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}

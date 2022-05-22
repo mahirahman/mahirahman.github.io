@@ -29,7 +29,8 @@
     "thumbnail": "https://raw.githubusercontent.com/mahirahman/OxumsBot/main/icons/logo.png",
     "description": "Open Source Rust (Video Game) Utility Bot for Discord",
     "stack": [
-      "NodeJS"
+      "NodeJS",
+      "MongoDB"
     ],
     "url": "https://top.gg/bot/XXX",
     "repository": "https://github.com/mahirahman/OxumsBot"

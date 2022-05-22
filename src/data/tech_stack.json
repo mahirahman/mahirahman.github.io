@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Languages",
+    "technology": [
+      {
+        "name": "Python",
+        "img": "./img/languages/python.svg"
+      },
+      {
+        "name": "JavaScript",
+        "img": "./img/languages/javascript.svg"
+      },
+      {
+        "name": "Java",
+        "img": "./img/languages/java.svg"
+      },
+      {
+        "name": "HTML",
+        "img": "./img/languages/html.svg"
+      },
+      {
+        "name": "CSS",
+        "img": "./img/languages/css.svg"
+      },
+      {
+        "name": "C",
+        "img": "./img/languages/c.svg"
+      },
+      {
+        "name": "PostgreSQL",
+        "img": "./img/languages/postgresql.svg"
+      },
+      {
+        "name": "MongoDB",
+        "img": "./img/languages/mongo-db.svg"
+      }
+    ]
+  },
+  {
+    "name": "Tools/Frameworks",
+    "technology": [
+      {
+        "name": "React",
+        "img": "./img/tools_frameworks/react.svg"
+      },
+      {
+        "name": "NodeJS",
+        "img": "./img/tools_frameworks/nodejs.svg"
+      },
+      {
+        "name": "Flask",
+        "img": "./img/tools_frameworks/flask.svg"
+      },
+      {
+        "name": "Git/Github",
+        "img": "./img/tools_frameworks/git.svg"
+      }
+    ]
+  },
+  {
+    "name": "UI/UX",
+    "technology": [
+      {
+        "name": "Bootstrap",
+        "img": "./img/ui_ux/bootstrap.svg"
+      },
+      {
+        "name": "Material UI",
+        "img": "./img/ui_ux/material-ui.svg"
+      },
+      {
+        "name": "Styled Components",
+        "img": "./img/ui_ux/styled-components.svg"
+      }
+    ]
+  }
+]
