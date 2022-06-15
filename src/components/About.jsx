@@ -11,7 +11,7 @@ function About() {
         <div className={global.container}>
         <h1 className={global.main_text}>Hi there, 👋</h1>
           <div className={style.text}>
-            <p>I'm Mahi, I'm interested in all aspects of software engineering and I’m always 
+            <p>I'm Mahi, I'm interested in full stack development and I’m always 
               keen on learning new technologies to write secure and scalable solutions.
               Looking for a role where I can grow and learn from experienced team members while
               drawing on project, analytical and leadership experience I have already successfully achieved.</p>
