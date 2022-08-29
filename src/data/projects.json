@@ -8,7 +8,7 @@
       "Flask",
       "Bootstrap"
     ],
-    "url": "https://movie-content-advisory.herokuapp.com",
+    "url": "https://movie-content-advisory-directory.vercel.app",
     "repository": "https://github.com/mahirahman/Movie-Content-Advisory-Directory"
   },
   {
@@ -23,17 +23,6 @@
     ],
     "url": "https://big-brain.vercel.app",
     "repository": "https://github.com/mahirahman/BigBrain"
-  },
-  {
-    "title": "Oxums",
-    "thumbnail": "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/908828/how-to-make-a-discord-bot-7c0fe302b98b05b145682344b3a4ec59.png",
-    "description": "Open Source Rust (Video Game) Utility Bot for Discord.",
-    "stack": [
-      "NodeJS",
-      "MongoDB"
-    ],
-    "url": "https://top.gg/bot/XXX",
-    "repository": "https://github.com/mahirahman/OxumsBot"
   },
   {
     "title": "Earth Invaders",
