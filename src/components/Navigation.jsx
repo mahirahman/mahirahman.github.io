@@ -20,13 +20,13 @@ function Navigation() {
           <a href="#projects">Projects</a>
         </div>
         <div className={style.social_links}>
-          <a href='https://github.com/mahirahman' target="_blank" rel="noreferrer">
+          <a href='https://github.com/mahirahman' target="_blank" rel="noreferrer" aria-label="Github Profile">
             <GitHubIcon/>
           </a>
-          <a href='https://www.linkedin.com/in/mahirahman/' target="_blank" rel="noreferrer">
+          <a href='https://www.linkedin.com/in/mahirahman/' target="_blank" rel="noreferrer" aria-label="Linkedin Profile">
             <LinkedInIcon/>
           </a>
-          <a href='mailto:mahi.rahman@student.unsw.edu.au'>
+          <a href='mailto:mahi.rahman@student.unsw.edu.au' aria-label="Email Address">
             <EmailIcon/>
           </a>
         </div>

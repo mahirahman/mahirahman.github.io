@@ -1,7 +1,7 @@
 [
   {
     "title": "Movie Content Advisory Directory",
-    "thumbnail": "https://raw.githubusercontent.com/mahirahman/Movie-Content-Advisory-Directory/main/public/img/movies-page.png",
+    "thumbnail": "https://raw.githubusercontent.com/mahirahman/Movie-Content-Advisory-Directory/main/public/img/movies-page.webp",
     "description": "Modern and mobile friendly web application that allows users to search for content advisories for movies and TV shows.",
     "stack": [
       "Python",
@@ -13,7 +13,7 @@
   },
   {
     "title": "BigBrain",
-    "thumbnail": "https://raw.githubusercontent.com/mahirahman/BigBrain/master/screenshots/in_question.png",
+    "thumbnail": "https://raw.githubusercontent.com/mahirahman/BigBrain/master/screenshots/in_question.webp",
     "description": "An innovative lightweight quiz platform for all ages.",
     "stack": [
       "React",
@@ -26,7 +26,7 @@
   },
   {
     "title": "Earth Invaders",
-    "thumbnail": "https://raw.githubusercontent.com/mahirahman/Earth-Invaders/master/assets/images/thumbnail.png",
+    "thumbnail": "https://raw.githubusercontent.com/mahirahman/Earth-Invaders/master/assets/images/thumbnail.webp",
     "description": "Side Scrolling Shooter Game.",
     "stack": [
       "Python",
@@ -37,7 +37,7 @@
   },
   {
     "title": "Social Network API",
-    "thumbnail": "https://raw.githubusercontent.com/mahirahman/SocialNetworkAPI/master/src/thumbnail.PNG",
+    "thumbnail": "https://raw.githubusercontent.com/mahirahman/SocialNetworkAPI/master/src/thumbnail.webp",
     "description": "Zoom/Microsoft Teams Rest API clone.",
     "stack": [
       "Python",
@@ -48,7 +48,7 @@
   },
   {
     "title": "Low Level Snake",
-    "thumbnail": "https://raw.githubusercontent.com/mahirahman/Snake/main/thumbnail.PNG",
+    "thumbnail": "https://raw.githubusercontent.com/mahirahman/Snake/main/thumbnail.webp",
     "description": "Implementation of the classic video game Snake in low level MIPS Assembly Language.",
     "stack": [
       "Assembly (MIPS)"
