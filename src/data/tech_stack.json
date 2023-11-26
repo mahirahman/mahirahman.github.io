@@ -7,8 +7,8 @@
         "img": "./img/languages/python.svg"
       },
       {
-        "name": "JavaScript",
-        "img": "./img/languages/javascript.svg"
+        "name": "TypeScript",
+        "img": "./img/languages/typescript.svg"
       },
       {
         "name": "Java",
@@ -23,16 +23,16 @@
         "img": "./img/languages/css.svg"
       },
       {
-        "name": "C",
-        "img": "./img/languages/c.svg"
+        "name": "C/C++",
+        "img": "./img/languages/c++.svg"
       },
       {
-        "name": "PostgreSQL",
-        "img": "./img/languages/postgresql.svg"
+        "name": "C#",
+        "img": "./img/languages/csharp.svg"
       },
       {
-        "name": "MongoDB",
-        "img": "./img/languages/mongo-db.svg"
+        "name": "PowerShell",
+        "img": "./img/languages/powershell.svg"
       }
     ]
   },
@@ -44,16 +44,36 @@
         "img": "./img/tools_frameworks/react.svg"
       },
       {
+        "name": "Vue",
+        "img": "./img/tools_frameworks/vue.svg"
+      },
+      {
         "name": "NodeJS",
         "img": "./img/tools_frameworks/nodejs.svg"
+      },
+      {
+        "name": ".NET",
+        "img": "./img/tools_frameworks/dotnet.svg"
       },
       {
         "name": "Flask",
         "img": "./img/tools_frameworks/flask.svg"
       },
       {
-        "name": "Git/Github",
+        "name": "Git",
         "img": "./img/tools_frameworks/git.svg"
+      },
+      {
+        "name": "PostgreSQL",
+        "img": "./img/tools_frameworks/postgresql.svg"
+      },
+      {
+        "name": "MSSQL",
+        "img": "./img/tools_frameworks/mssql.svg"
+      },
+      {
+        "name": "MongoDB",
+        "img": "./img/tools_frameworks/mongo-db.svg"
       }
     ]
   },
@@ -67,6 +87,10 @@
       {
         "name": "Material UI",
         "img": "./img/ui_ux/material-ui.svg"
+      },
+      {
+        "name": "Vuetify",
+        "img": "./img/ui_ux/vuetify.svg"
       },
       {
         "name": "Styled Components",

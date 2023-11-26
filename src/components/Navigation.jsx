@@ -26,7 +26,7 @@ function Navigation() {
           <a href='https://www.linkedin.com/in/mahirahman/' target="_blank" rel="noreferrer" aria-label="Linkedin Profile">
             <LinkedInIcon/>
           </a>
-          <a href='mailto:mahi.rahman@student.unsw.edu.au' aria-label="Email Address">
+          <a href='mailto:mahi.rahman@gmx.us' aria-label="Email Address">
             <EmailIcon/>
           </a>
         </div>

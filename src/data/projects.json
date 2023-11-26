@@ -36,15 +36,17 @@
     "repository": "https://github.com/mahirahman/Earth-Invaders"
   },
   {
-    "title": "Social Network API",
-    "thumbnail": "https://raw.githubusercontent.com/mahirahman/SocialNetworkAPI/master/src/thumbnail.webp",
-    "description": "Zoom/Microsoft Teams Rest API clone.",
+    "title": "My Calendar API",
+    "thumbnail": "https://raw.githubusercontent.com/mahirahman/MyCalendarAPI/master/util/au_map.jpg",
+    "description": "Time-management and scheduling calendar service API for Australians.",
     "stack": [
       "Python",
-      "Flask"
+      "Flask",
+      "GepPandas",
+      "Matplotlib"
     ],
     "url": null,
-    "repository": "https://github.com/mahirahman/SocialNetworkAPI"
+    "repository": "https://github.com/mahirahman/MyCalendarAPI"
   },
   {
     "title": "Low Level Snake",
