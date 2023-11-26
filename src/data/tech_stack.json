@@ -72,6 +72,10 @@
         "img": "./img/tools_frameworks/mssql.svg"
       },
       {
+        "name": "SQLite",
+        "img": "./img/tools_frameworks/sqlite.svg"
+      },
+      {
         "name": "MongoDB",
         "img": "./img/tools_frameworks/mongo-db.svg"
       }
