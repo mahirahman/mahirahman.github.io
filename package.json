@@ -9,8 +9,8 @@
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0",
-    "react-scripts": "5.0.1"
+    "gh-pages": "^6.1.1",
+    "react-scripts": "^5.0.1"
   },
   "dependencies": {
     "@emotion/react": "^11.9.0",
