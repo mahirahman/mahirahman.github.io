@@ -42,7 +42,7 @@
     "stack": [
       "Python",
       "Flask",
-      "GepPandas",
+      "GeoPandas",
       "Matplotlib"
     ],
     "url": null,
