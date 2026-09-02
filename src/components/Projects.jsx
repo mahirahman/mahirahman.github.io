@@ -31,7 +31,13 @@ function Projects() {
                   {project.description}
                 </Typography>
                 <div className={style.btn_container}>
-                  {project.url && <Button variant="contained" onClick={() => window.open(project.url, '_blank').focus()}>Demo</Button>}
+                  {project.url && (
+                    Array.isArray(project.url)
+                      ? project.url.map((demo, demoIndex) => (
+                        <Button key={demoIndex} variant="contained" onClick={() => window.open(demo, '_blank').focus()}>{`Demo ${demoIndex + 1}`}</Button>
+                      ))
+                      : <Button variant="contained" onClick={() => window.open(project.url, '_blank').focus()}>Demo</Button>
+                  )}
                   {project.repository && <Button variant="contained" onClick={() => window.open(project.repository, '_blank').focus()}>Git Repository</Button>}
                 </div>
                 <div className={style.tags_container}>

@@ -10,7 +10,7 @@
       "Demucs",
       "ffmpeg"
     ],
-    "url": "https://www.youtube.com/@CedricOfTheLute/videos"
+    "url": ["https://www.youtube.com/@CedricOfTheLute/videos", "https://www.youtube.com/@ByMaharaja/videos"]
   },
   {
     "title": "Movie Content Advisory Directory",

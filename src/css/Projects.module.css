@@ -37,7 +37,9 @@
 
 .tags_container {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
 /* Override MUI styles */
