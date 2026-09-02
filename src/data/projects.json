@@ -1,5 +1,18 @@
 [
   {
+    "title": "Reflow",
+    "thumbnail": "https://i.ytimg.com/vi/iVjSRieWuFg/hq720.jpg",
+    "description": "AI-driven media production CLI pipeline automating lyric retrieval, music remixing, vocal/instrumental separation, thumbnail generation, and YouTube publishing.",
+    "stack": [
+      "Python",
+      "Suno",
+      "Nano Banana Pro",
+      "Demucs",
+      "ffmpeg"
+    ],
+    "url": "https://www.youtube.com/@CedricOfTheLute/videos"
+  },
+  {
     "title": "Movie Content Advisory Directory",
     "thumbnail": "https://raw.githubusercontent.com/mahirahman/Movie-Content-Advisory-Directory/main/public/img/movies-page.webp",
     "description": "Modern and mobile friendly web application that allows users to search for content advisories for movies and TV shows.",

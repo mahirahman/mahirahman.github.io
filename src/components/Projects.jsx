@@ -32,7 +32,7 @@ function Projects() {
                 </Typography>
                 <div className={style.btn_container}>
                   {project.url && <Button variant="contained" onClick={() => window.open(project.url, '_blank').focus()}>Demo</Button>}
-                  <Button variant="contained" onClick={() => window.open(project.repository, '_blank').focus()}>Git Repository</Button>
+                  {project.repository && <Button variant="contained" onClick={() => window.open(project.repository, '_blank').focus()}>Git Repository</Button>}
                 </div>
                 <div className={style.tags_container}>
                   {project.stack.map((tag, index) => (
